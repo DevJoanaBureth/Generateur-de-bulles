@@ -1,5 +1,15 @@
 # Generateur-de-bulles
-👩‍💻 Code HTML, CSS et JavaScript qui créait un jeu où l'on doit éclater le plus de bulle.
 
-🕰️ Fait en 3 jours.
+Un jeu en HTML, CSS et JavaScript où l'on doit le plus vite éclater le plus de bulles.
 
+![Aperçu du générateur de bulles](screenshot.png)
+
+## Fonctionnalités
+
+- **Eclater des bulles**
+
+## Technologies utilisées
+
+- **HTML** : Structure de la page
+- **CSS** : Design et mise en forme
+- **TypeScript** : Logique et lien des pages
